@@ -12,20 +12,20 @@ from datetime import datetime
 {
   "cmd": "report",
   "model"import re: "sensor_ht",
-  "sid": "158d0001f58aa3",
+  "sid": "1337",
   "short_id": 54230,
   "data": "{\"temperature\":\"2351\"}"
 }{
   "cmd": "report",
   "model": "sensor_ht",
-  "sid": "158d0001f58aa3",
+  "sid": "1337",
   "short_id": 54230,
   "data": "{\"humidity\":\"5190\"}"
 }
 {
   "cmd": "report",
   "model": "sensor_ht",
-  "sid": "158d0001f58aa3",
+  "sid": "1337",
   "short_id": 54230,
   "data":"{\"voltage\":3015,\"temperature\":\"2548\",\"humidity\":\"3968\"}
 }
