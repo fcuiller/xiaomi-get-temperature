@@ -9,6 +9,7 @@ from influxdb import InfluxDBClient
 
 # build JSON with following sensor format to then feed influxDB
 
+
 """
 json_body = [
     {
