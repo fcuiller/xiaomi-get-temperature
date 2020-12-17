@@ -9,7 +9,6 @@ from influxdb import InfluxDBClient
 
 # build JSON with following sensor format to then feed influxDB
 
-
 """
 json_body = [
     {
@@ -25,6 +24,7 @@ json_body = [
     }
 ]
 """
+
 
 def buildJSON(measure, timestamp, value, host, region):
     payload = []
